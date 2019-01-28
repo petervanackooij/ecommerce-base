@@ -1,0 +1,8 @@
+{
+    "name": "petervanackooij/ecommerce-base",
+    "autoload": {
+        "psr-4" : {
+            "PeterVanAckooij\\Bundle\\EcommerceBaseBundle" : ""
+        }
+    }
+}
